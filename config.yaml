@@ -13,8 +13,8 @@ count: 6
 # pins：随意命名,标记token而已  tokens：jwt三段式的token,东东超市刷新星币兑换列表可以抓到  token数量保持在5个最佳
 token:
   pins:
-  - "pin1"
+  - "test"
   - "pin2"
   cks:
-  - "ck1"
+  - "pt_key=AAJi4i6oADBRV7qlr0ofSqQKXuMrnzUyXgSYHpNc3z653SCBadIZuS7Pd5yBV5ztJmMDWdZomjA; pt_pin=jd_4300168fb404b;"
   - "ck2"
