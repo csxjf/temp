@@ -3,8 +3,8 @@ token:
   - pin1
   - pin2
   cks:
-  - pt_key=app_openAAJijKSWADA-tf36es-LYMNdGPzm5ADMvsFT_FO_rJnCDJvzNjWI2gSOhbtDc9qL5ra7P33BCgY;pt_pin=i_fun;
-  - pt_key=AAJjJn6ZADBdrAUr4v74cvJ6zpDoFp-Mcxv80m-M1MEkY1Y2xz6wgaQaiibwQLBy2xd3RCBw5FI;pt_pin=guluanmeng;
+  - "pt_key=app_openAAJijKSWADA-tf36es-LYMNdGPzm5ADMvsFT_FO_rJnCDJvzNjWI2gSOhbtDc9qL5ra7P33BCgY;pt_pin=i_fun;"
+  - "pt_key=AAJjJn6ZADBdrAUr4v74cvJ6zpDoFp-Mcxv80m-M1MEkY1Y2xz6wgaQaiibwQLBy2xd3RCBw5FI;pt_pin=guluanmeng;"
   tokens:
 mode: test
 bean: "1000"
